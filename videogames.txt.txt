@@ -10,3 +10,4 @@ Soccer
 Badminton
 basketbll
 football
+KICKBALL
