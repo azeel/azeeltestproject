@@ -11,3 +11,5 @@ Badminton
 basketbll
 football
 KICKBALL
+cricket
+tennis
